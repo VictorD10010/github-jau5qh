@@ -1,0 +1,39 @@
+.mat-card-simples {
+  max-width: 425px;
+  background-color: cornflowerblue;
+  margin-top: 15px;
+  display: grid;
+  align-content: center;
+  color: whitesmoke;
+  margin-left: 35%;
+}
+
+.mat {
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  display: grid;
+  align-content: center;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+mat-label {
+  color: whitesmoke;
+}
+
+.title {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.button {
+  display: grid;
+  margin-left: 48.5%;
+  margin-top: 25px;
+  color: cornflowerblue;
+}
+
+mat-card-subtitle{
+  color: whitesmoke;
+}
+
+
